@@ -1,0 +1,17 @@
+
+body{
+    background-image: url("https://cdn.sforum.vn/sforum/wp-content/uploads/2023/06/tai-hinh-nen-dep-nhat-the-gioi-57.jpg")
+}
+
+
+.container{
+   
+    text-align: center;
+}
+button{
+    border: none;
+    background-color: red;
+    color: white;
+    height: 30px;
+    width: 250px;
+}

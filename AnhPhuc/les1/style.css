@@ -1,0 +1,35 @@
+
+button {
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+span{   
+    color: blue;
+}
+
+.h1{
+    
+}
+
+.button1{
+    
+    background-color: rgb(113, 113, 216);
+    color: white;
+    
+}
+
+.button2{
+    margin-left: 12px;
+    background-color:black;
+    color: white;
+    
+}
+
+
+

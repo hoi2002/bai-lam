@@ -1,0 +1,35 @@
+.glyphicon{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 50px;
+  color: aqua;
+    
+}
+
+h1{
+    font-weight: black;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(16, 16, 16);
+}
+.i{
+    style="color: #00eeff;
+}
+
+textarea{
+    border: none;
+    height: 40px;
+    width: 250px;
+}
+button{
+    border: none;
+    margin-left: 30px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    height: 40px;
+    width: 140px;
+    background-color: rgb(50, 165, 185);
+   color: white;
+}

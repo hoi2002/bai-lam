@@ -1,16 +1,45 @@
 .container{
-    position:relative;
-    width: 250px;
-    height: 10px;
-    text-align: center;
-    background-color: rgb(159, 151, 151);
+    display: flex;
+    padding: 0;
+}
+.left-panel, .right-panel{
+    padding: 50px;
+}
+.left-panel{
+    background-color: rgb(165, 162, 162);
     color: white;
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    
 }
-h1{
-    padding: 15px;
+.right-panel{
+    width: 2000px;
+    height: 4000px;
+     margin-top: 0;
 }
+.text{
+    line-height: 1.5;
+    font-size: 20px;
+}
+.title{
+    color: black;
+    margin-top: 0px;
+
+}
+h2{
+    margin-top: 120px;
+    margin-bottom: 20px;
+    line-height: 2;
+    font-size:20px ;
+}
+
+
 .border-button{
+    margin-top: 10px;
     border: 2px solid #000;
     width: 100px;
     height: 30px;
+    margin-top: 15px;
+    margin-bottom: 0px;
 }
